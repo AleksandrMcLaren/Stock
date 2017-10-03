@@ -17,7 +17,7 @@ class RootViewController: UIViewController
     // MARK: - Life cycle
     
     static let shared: RootViewController = RootViewController()
-    
+
     override func viewDidLoad()
     {
         super.viewDidLoad()

@@ -10,7 +10,7 @@ import UIKit
 
 enum API
 {
-    static let BaseURL = "https://btc-e.nz/api/3"
+    static let BaseURL = "https://wex.nz/api/3"
     static let Token = "sdfiug8186qf68qsdf18389qsh4niuy1"
 }
 
